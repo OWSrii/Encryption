@@ -1,0 +1,23 @@
+*Necessary parameter*
+<Unnecessary parameter>
+
+---------------------------------------------------------------------------------
+
+*-h*
+Get the documentation
+
+---------------------------------------------------------------------------------
+
+*-e* *original file absolute path* <<-o> <output file absolute path>>
+
+Encrypt the file
+If -o option is specified, 4th parameter must be the output file absolute path
+
+---------------------------------------------------------------------------------
+
+*-d* *encrypted file path* <<-o> <output file absolute path>>
+
+Decrypt the file
+If -o option is specified, 4th parameter must be the output file absolute path
+
+---------------------------------------------------------------------------------
